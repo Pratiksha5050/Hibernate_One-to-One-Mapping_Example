@@ -1,0 +1,6 @@
+net\hibernate\map\instructor\instructorDetail.class
+App.class
+net\hibernate\map\instructor\Instructor.class
+net\hibernate\map\InstuctorDao\InstructorDetailDao.class
+net\hibernate\map\InstuctorDao\InstructorDao.class
+net\hibernate\map\util\HibernateUtil.class
